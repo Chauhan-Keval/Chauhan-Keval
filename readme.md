@@ -25,11 +25,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   8 hrs 14 mins   ███████████████████░░░░░░   75.83 %
-Python       1 hr 2 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 %
-JavaScript   25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
-Bash         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-Prisma       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
