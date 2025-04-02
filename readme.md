@@ -39,5 +39,5 @@ No activity tracked
 
 📉 **Coding Activity Over Last 7 Days:**
 <p>
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@jenxl_09/b8102f6f-f9e3-4f01-9f62-81ca0bf42cab.png" /></a>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@d0f84f9c-27f6-4b4d-9ef0-506add3eb2d4/11dde1ff-5247-4a9f-be30-bdc47b80f7c2.png" /></a>
 </p>
