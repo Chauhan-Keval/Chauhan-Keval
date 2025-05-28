@@ -6,7 +6,7 @@
 
 ### Glad to see you here!
 
-👋 Hi, I'm Jenil Desai, an aspiring Computer Engineer currently pursuing a BSc in Information Technology at Atmiya University. I'm deeply passionate about Software Development and dedicated to academic excellence.
+👋 Hi, I'm Chauhan Keval, an aspiring Computer Engineer currently pursuing a BSc in Information Technology at Atmiya University. I'm deeply passionate about Software Development and dedicated to academic excellence.
 
 💻 I have a growing skill set in technologies including Docker, Next.js, Git, GitHub, Linux, HTML, CSS, JavaScript, Typescript, Node.js, React.js, MongoDB, MySQL, PostgreSQL, and more.
 
