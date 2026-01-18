@@ -26,9 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Dart   1 hr 17 mins    ████████████████████████▓   98.85 %
-C#     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-Git    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
